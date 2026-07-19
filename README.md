@@ -1,16 +1,54 @@
-# React + Vite
+# 🌐 Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Built%20With-Vite-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Styled%20With-TailwindCSS-38B2AC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployed%20On-Vercel-black?style=for-the-badge" />
+</p>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+🔗 https://personal-portfolio-lrgc17a5d-sanskritirajrathor.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧑‍💻 About The Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This is my **personal portfolio website** built to showcase my:
+- 💼 Projects  
+- 🛠 Skills  
+- 📈 Experience  
+- 📬 Contact information  
+
+It is designed with a **modern UI**, smooth performance, and full responsiveness across devices.
+
+---
+
+## ✨ Features
+
+- 🎨 Modern and clean UI
+- 📱 Fully responsive design
+- ⚡ Lightning-fast performance (Vite)
+- 🧩 Component-based architecture
+- 💻 Project showcase section
+- 📬 Contact form / section
+- 🌙 Developer-friendly code structure
+
+---
+
+## 🛠️ Tech Stack
+
+| Category       | Technology |
+|---------------|-----------|
+| Frontend      | HTML, CSS, JavaScript |
+| Framework     | Vite |
+| Styling       | Tailwind CSS |
+| Deployment    | Vercel |
+
+---
+
+Example:
+![Home Page](./Screenshots/home.png)
